@@ -12,7 +12,7 @@ Note- If you are a beginner and want to make your own game start with using JFra
 
 Tools such as Eclipse IDE can generate core design from a UML diagram.
 
-Differences between Operating Systems can cause problems like screen flicker, file pathing issues to locate resources so we need to be wary about these. However these are not too difficult to fix, although I reccomend you sort that stuff out early on in the process of making your game.
+Differences between Operating Systems can cause problems like screen flicker, file pathing issues to locate resources so we need to be wary of these. However these are not too difficult to fix, although I reccomend you sort that stuff out early on in the process of making your game.
 
 Great Resources to Check Out 
 
@@ -27,7 +27,7 @@ Where to get Game Assets (Sounds /Player Sprites/Menus)
  soundbible.com
  Make your own via piskelapp.com (this is also a great tool to edit sprites)
  
- Final Comments: Coming from a background in C/C++ and some experience in OOP , some things that did irk me intitally about the Java was the garbage collector (I felt robbbed of the control I had over my system in C++) but eventually it grows on you. Not if you are coming from a C++ background some things like Multiple Inheritance dont work. 
+ Final Comments: Coming from a background in C/C++ and some experience in OOP , some things that did irk me intitally about Java was the garbage collector (I felt robbbed of the control I had over my system in C++) but eventually it grows on you.  If you are coming from a C++ background some things like Multiple Inheritance dont work. 
  
  Hope this helps anyone who wants to make their own game/swing project.
  

@@ -1,3 +1,12 @@
+
+# How to Run
+Open Terminal on Mac/Linux (For Windows use git bash )
+
+Execute this command
+
+java -jar Tandoori.jar
+
+
 # BirdGame
 Java Swing Game
 
